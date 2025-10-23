@@ -158,3 +158,33 @@ footer strong {
   }
 }
 
+/* Section Kontak Admin */
+section#kontak-admin {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #f8f9fa;
+}
+
+section#kontak-admin h2 {
+  color: #2b7a0b;
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+section#kontak-admin .btn {
+  display: inline-block;
+  background-color: #2b7a0b;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+section#kontak-admin .btn:hover {
+  background-color: #1e5a08;
+  transform: scale(1.05);
+}
+
+
